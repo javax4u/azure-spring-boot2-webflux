@@ -6,3 +6,9 @@
 
 # azure-spring-boot2-webflux
 This repository will be used used by azure cloud for CICD
+
+### commands to run this app on your laptop
+
+	mvn spring-boot:run
+	
+	curl localhost:8080
